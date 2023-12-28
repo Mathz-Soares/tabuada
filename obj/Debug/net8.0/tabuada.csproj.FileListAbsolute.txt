@@ -1,0 +1,14 @@
+C:\Users\id148\Desktop\Matheus\tabuada\bin\Debug\net8.0\tabuada.exe
+C:\Users\id148\Desktop\Matheus\tabuada\bin\Debug\net8.0\tabuada.deps.json
+C:\Users\id148\Desktop\Matheus\tabuada\bin\Debug\net8.0\tabuada.runtimeconfig.json
+C:\Users\id148\Desktop\Matheus\tabuada\bin\Debug\net8.0\tabuada.dll
+C:\Users\id148\Desktop\Matheus\tabuada\bin\Debug\net8.0\tabuada.pdb
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfoInputs.cache
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.AssemblyInfo.cs
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.dll
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\refint\tabuada.dll
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.pdb
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\tabuada.genruntimeconfig.cache
+C:\Users\id148\Desktop\Matheus\tabuada\obj\Debug\net8.0\ref\tabuada.dll
